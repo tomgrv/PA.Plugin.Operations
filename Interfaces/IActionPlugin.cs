@@ -5,7 +5,7 @@ using System.ComponentModel.Composition;
 using System.Linq;
 using System.Text;
 
-namespace PA.Plugin.Components.Interfaces
+namespace PA.Plugin.Operations.Interfaces
 {
     [InheritedExport]
     public interface IActionPlugin : IPlugin 
